@@ -1,3 +1,2 @@
-Toto bude Dungeon crawler 'type-of' hra, s implementovanými NPCs, pastmi, apod věcmi.
-
+this is lowkey dungeon crawler type game, shrek saving princess etc xd
 # shrek_game_java
